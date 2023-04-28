@@ -1,0 +1,54 @@
+2023-04-28 16:28:46,658 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-28 16:56:14,365 [Worker-33: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: congty:Bai1_Begin:0.0.1-SNAPSHOT @ D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\pom.xml.
+2023-04-28 16:56:21,120 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 16:56:21,125 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\main\resources
+2023-04-28 16:56:21,136 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 16:56:21,138 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\test\resources
+2023-04-28 16:56:22,036 [Worker-33: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Bai1_Begin/src/main/java
+2023-04-28 16:56:22,037 [Worker-33: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Bai1_Begin/src/test/java
+2023-04-28 16:56:22,648 [Worker-33: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-04-28 16:56:23,333 [Worker-33: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: congty:Bai1_Begin:0.0.1-SNAPSHOT @ D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\pom.xml.
+2023-04-28 16:56:24,464 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 16:56:24,466 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\main\resources
+2023-04-28 16:56:24,472 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 16:56:24,473 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\test\resources
+2023-04-28 16:56:24,475 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Bai1_Begin
+2023-04-28 16:56:24,476 [Worker-40: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Bai1_Begin
+2023-04-28 16:56:25,264 [Worker-33: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Bai1_Begin/src/main/java
+2023-04-28 16:56:25,265 [Worker-33: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Bai1_Begin/src/test/java
+2023-04-28 16:56:25,520 [Worker-33: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Bai1_Begin
+2023-04-28 16:56:25,582 [Worker-33: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 1,00 sec, update config takes 1,00 sec 
+2023-04-28 16:56:26,523 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 16:56:26,526 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\main\resources
+2023-04-28 16:56:26,531 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 16:56:26,532 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\test\resources
+2023-04-28 16:56:26,533 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Bai1_Begin
+2023-04-28 16:56:26,533 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Bai1_Begin
+2023-04-28 17:04:35,225 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:04:35,269 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\main\resources
+2023-04-28 17:04:35,279 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:04:35,281 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\test\resources
+2023-04-28 17:07:12,811 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:07:12,838 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\main\resources
+2023-04-28 17:07:12,845 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:07:12,847 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\test\resources
+2023-04-28 17:11:26,771 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:11:26,793 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\main\resources
+2023-04-28 17:11:26,798 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:11:26,800 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\test\resources
+2023-04-28 17:11:36,884 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:11:36,887 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\main\resources
+2023-04-28 17:11:36,894 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:11:36,896 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\test\resources
+2023-04-28 17:11:39,015 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:11:39,017 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\main\resources
+2023-04-28 17:11:39,026 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:11:39,028 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\test\resources
+2023-04-28 17:11:41,272 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:11:41,273 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\main\resources
+2023-04-28 17:11:41,281 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:11:41,282 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\test\resources
+2023-04-28 17:15:14,521 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:15:14,541 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\main\resources
+2023-04-28 17:15:14,546 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-04-28 17:15:14,548 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java\1.LearnBasicWeb_sevrlet_jsp\Bai1_Begin\src\test\resources
